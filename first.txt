@@ -2,3 +2,5 @@ Gitの練習をしています
 
 git add
 gid commit
+git rm
+git status
