@@ -4,3 +4,9 @@ git add
 gid commit
 git rm
 git status
+git diff
+git -n 3
+git log
+git --oneline
+git log -p
+git diff HEAD
